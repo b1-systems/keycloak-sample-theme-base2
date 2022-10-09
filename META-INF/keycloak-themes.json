@@ -1,0 +1,6 @@
+{
+    "themes": [{
+        "name" : "base2",
+        "types": [ "account", "admin", "email", "login" ]
+    }]
+}
